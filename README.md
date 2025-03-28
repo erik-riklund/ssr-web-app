@@ -1,5 +1,4 @@
 # Cogspinner
-Work in progress!
 
 An opinionated workspace for building a server-side rendered web application. Powered by Bun.
 
