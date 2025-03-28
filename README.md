@@ -4,9 +4,12 @@ An opinionated workspace for building a server-side rendered web application. Po
 
 ## Features
 
-- **Server-side rendering**: Efficiently render web pages on the server for faster load times and improved SEO.
-- **Powered by Bun**: Utilize the Bun runtime for fast and modern JavaScript/TypeScript execution.
-- **Opinionated setup**: Pre-configured tools and settings to help you get started quickly.
+- **Server-side rendering**:
+  Efficiently render web pages on the server for faster load times and improved SEO.
+- **Powered by Bun**:
+  Utilize the Bun runtime for fast and modern JavaScript/TypeScript execution.
+- **Opinionated setup**:
+  Pre-configured tools and settings to help you get started quickly.
 
 ## Getting started
 
