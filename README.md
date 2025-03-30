@@ -1,4 +1,4 @@
-# Cogspinner
+# Server-side rendered web application
 
 An opinionated workspace for building a server-side rendered web application. Powered by Bun.
 
@@ -23,7 +23,7 @@ Follow these steps to set up your development environment and start building you
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/erik-riklund/cogspinner.git
+    git clone https://github.com/erik-riklund/ssr-web-app.git
     ```
 
 2. Install dependencies:
